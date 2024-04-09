@@ -1,1 +1,1 @@
-# devops-netology
+Byzgaev Netology
