@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-Byzgaev Netology
-=======
 # devops-netology
 Byzgaev Netology
->>>>>>> dde727d14c5ac90e363c5b94247447fd9dd89be6
-
 
 # Игнорирование файлов в проекте Terraform
 
