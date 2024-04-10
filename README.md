@@ -15,7 +15,7 @@
 
 ### Задание 2. Создание файлов .gitignore и второго коммита
 
-! [image] (https://github.com/Byzgaev-I/devops-netology/blob/main/2.png) 
+! [image](https://github.com/Byzgaev-I/devops-netology/blob/main/2.png) 
 
 В файле README.md опишите своими словами, какие файлы будут проигнорированы в будущем благодаря добавленному .gitignore.  
 Будут проигнорированы данные типы файлов:  
