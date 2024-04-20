@@ -42,3 +42,5 @@ terraform.rc - будут проигнорированы все файлы с и
 ![image](https://github.com/Byzgaev-I/devops-netology/blob/main/6.png)  
 
 ![image](https://github.com/Byzgaev-I/devops-netology/blob/main/7.png)  
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
